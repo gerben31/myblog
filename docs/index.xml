@@ -169,6 +169,47 @@ $$
     
     <item>
       <title>My First Post</title>
+      <link>https://gerben31.github.io/myblog/posts/2/</link>
+      <pubDate>Fri, 03 Dec 2021 00:29:27 +0300</pubDate>
+      
+      <guid>https://gerben31.github.io/myblog/posts/2/</guid>
+      <description>&lt;p&gt;This is a table:&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;id&lt;/th&gt;
+&lt;th&gt;name&lt;/th&gt;
+&lt;th&gt;age&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;td&gt;user1&lt;/td&gt;
+&lt;td&gt;13&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;2&lt;/td&gt;
+&lt;td&gt;user1&lt;/td&gt;
+&lt;td&gt;23&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;3&lt;/td&gt;
+&lt;td&gt;user1&lt;/td&gt;
+&lt;td&gt;25&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;4&lt;/td&gt;
+&lt;td&gt;user1&lt;/td&gt;
+&lt;td&gt;33&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>My First Post</title>
       <link>https://gerben31.github.io/myblog/posts/my-first-post/</link>
       <pubDate>Fri, 03 Dec 2021 00:29:27 +0300</pubDate>
       
