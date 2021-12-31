@@ -1,8 +1,4 @@
-<<<<<<< HEAD
 baseURL = "https://gerben31.github.io/myblog"
-=======
-baseURL = "https://gerben31.github.io/myblog/"
->>>>>>> ed9c789ea193d8e218b4e3a62f21607520d949c9
 languageCode = "en-us"
 title = "blog"
 theme = "anubis"
