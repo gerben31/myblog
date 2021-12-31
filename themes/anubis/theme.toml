@@ -4,6 +4,7 @@ licenselink = "https://github.com/Mitrichius/hugo-theme-anubis/blob/master/LICEN
 description = "A minimal Hugo theme"
 homepage = "https://github.com/mitrichius/hugo-theme-anubis"
 demosite = "https://hugo-theme-anubis.netlify.app/"
+googleAnalytics = G-5S72PVLV5R
 tags = [
     "blog", 
     "responsive",
