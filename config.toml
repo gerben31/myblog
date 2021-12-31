@@ -3,6 +3,8 @@ languageCode = "en-us"
 title = "blog"
 theme = "anubis"
 pageinate = 30
+publishDir = "docs"
+
 
 [author] 
 name = "tester"
