@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://gerben31.github.io"
 languageCode = "en-us"
 title = "blog"
 theme = "anubis"
