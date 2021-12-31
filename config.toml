@@ -4,6 +4,7 @@ title = "blog"
 theme = "anubis"
 pageinate = 30
 publishDir = "docs"
+googleAnalytics = "G-60ZWG304ZW"
 
 
 [author] 
